@@ -1,0 +1,26 @@
+This program calculates the sum of squares of a given set of numbers
+
+
+x = input_function( Takes in the set of numbers)
+
+
+function TSS ( x -- enters the function as input ){
+   
+   y = A reserved storage list (takes in numbers)
+     
+   Calculate the mean of the set of numbers (i.e of x)
+
+   for (every number in the set of numbers -- x){
+       Subtract the calculated_mean from each number
+       Square the result of the subtraction operation prior to this
+       The result of the squaring operation prior to this, is sent to be stored in y
+       }
+   
+    Then sum all the items stored in y
+    print the result of the summing operation
+
+    end
+
+}
+        
+
