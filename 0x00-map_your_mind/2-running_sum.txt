@@ -1,0 +1,20 @@
+This program calculates the running sum of a given set of numbers
+
+x = input_function( Takes in a set of numbers)
+
+
+function running_sum ( x -- enters the function as input ){
+   
+    y = A reserved storage list (takes in numbers)
+    
+    for (every number in the set of numbers -- x){
+        if, number is a nrgative number--stop
+
+        else, store the number in y
+        end
+        }
+     
+    sum all numbers in y
+    print the sum of numbers stored in y
+    end
+}

@@ -1,0 +1,18 @@
+This program takes in three numbers and writes them all in sorted order
+
+
+x = input_function( Takes in a set of numbers)
+
+
+function Sorted_3 ( x -- enters the function as input ){
+   
+    y = A reserved storage list (takes in numbers)
+    
+    for (every number in the set of numbers -- x){
+        if the number is the least among the rest store it in storage y
+        end
+        }
+     
+    print the sorted set of numbers stored in y
+    end
+}
